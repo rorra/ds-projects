@@ -2,3 +2,6 @@
 .idea
 pizza_steak
 *.zip
+*.jpeg
+10_food_classes_all_data
+saved_trained_model
