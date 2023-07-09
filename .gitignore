@@ -5,3 +5,5 @@ pizza_steak
 *.jpeg
 10_food_classes_all_data
 saved_trained_model
+10_food_classes_10_percent
+tensorflow_hub
