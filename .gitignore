@@ -13,3 +13,10 @@ __pycache__
 10_food_classes_1_percent
 ten_percent_model_checkpoints_weights
 transfer_learning
+06_101_food_class_10_percent_saved_big_dog_model
+*.data-*
+*.index
+101_food_class_10_percent_saved_big_dog_model
+101_food_classes_10_percent
+checkpoint
+confusion_matrix.png
