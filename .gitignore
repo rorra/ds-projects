@@ -20,3 +20,11 @@ transfer_learning
 101_food_classes_10_percent
 checkpoint
 confusion_matrix.png
+*.csv
+downloaded_gs_model
+embedding_*.tsv
+*.h5
+model_6_SavedModel_format
+model_logs
+pubmed-rct
+training_logs
