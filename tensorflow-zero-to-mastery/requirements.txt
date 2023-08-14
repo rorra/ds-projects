@@ -9,3 +9,5 @@ protobuf==3.19.6
 tensorflow_metadata==1.12.0
 tensorflow-datasets==4.9.0
 ipywidgets==8.0.7
+pydot==1.4.2
+spacy==3.6.1

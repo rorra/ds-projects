@@ -28,3 +28,9 @@ model_6_SavedModel_format
 model_logs
 pubmed-rct
 training_logs
+07_efficientnetb0_feature_extract_model_mixed_precision
+07_efficientnetb0_fine_tuned_101_classes_mixed_precision
+downloaded_fine_tuned_gs_model
+skimlit_tribrid_model
+model.png
+skimlit_example_abstracts.json
