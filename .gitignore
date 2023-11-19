@@ -34,3 +34,5 @@ downloaded_fine_tuned_gs_model
 skimlit_tribrid_model
 model.png
 skimlit_example_abstracts.json
+datasets
+*.pkl
