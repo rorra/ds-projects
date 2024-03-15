@@ -38,3 +38,4 @@ datasets
 *.pkl
 tensorflow-zero-to-mastery/model_experiments
 models
+**/logs/*
