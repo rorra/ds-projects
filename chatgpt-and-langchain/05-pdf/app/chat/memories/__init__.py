@@ -1,6 +1,8 @@
 from functools import partial
 from .sql_memory import build_memory
+from .window_memory import window_buffer_memory_builder
 
 memory_map = {
-    "sql_memory": partial(build_memory),
+    "sql_buffer_memory": partial(build_memory),
+    "window_memory": partial(window_buffer_memory_builder),
 }
